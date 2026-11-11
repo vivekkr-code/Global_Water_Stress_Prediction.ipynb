@@ -1,0 +1,17 @@
+PROJECT: Global Water Scarcity & Stress Prediction
+
+Dataset 1:
+Name: Global Water Stress
+Source: Our World in Data
+URL: https://ourworldindata.org/grapher/freshwater-withdrawals-as-a-share-of-internal-resources
+
+Dataset 2:
+Name: Annual Freshwater Withdrawals
+Source: Our World in Data
+URL: https://ourworldindata.org/grapher/annual-freshwater-withdrawals
+
+Purpose:
+These datasets are used to analyze global freshwater withdrawals and water stress across countries and years.
+
+Usage:
+Educational and research purposes.
