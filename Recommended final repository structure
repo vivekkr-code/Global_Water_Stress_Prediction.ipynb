@@ -1,0 +1,19 @@
+Global-Water-Scarcity-ML/
+│
+├── data/
+│   ├── water_stress.csv
+│   └── freshwater_withdrawals.csv
+│
+├── notebooks/
+│   └── Global_Water_Scarcity_Analysis.ipynb
+│
+├── visualizations/
+│
+├── models/
+│
+├── README.md
+├── requirements.txt
+├── dataset_source.txt
+├── .gitignore
+├── LICENSE
+└── PROJECT_NOTES.md
